@@ -1,0 +1,5 @@
+fichar enena enenik
+fichar enena enenik
+cuantos_equipos enena
+equipo_actual enena
+FIN

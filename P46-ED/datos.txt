@@ -1,0 +1,8 @@
+1
+A P 1 WA
+A P 2 WA
+A P 3 AC
+A P 3 AC
+A P 3 AC
+A P 3 AC
+FIN

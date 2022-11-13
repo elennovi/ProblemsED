@@ -1,0 +1,7 @@
+nuevo enena
+nuevo nenik
+quitar nenik 1
+recuperar nenik 1
+recuperar enena 1
+lista_por_puntos 15
+FIN
